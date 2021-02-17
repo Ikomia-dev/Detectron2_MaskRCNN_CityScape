@@ -2,7 +2,7 @@
 
 ![](https://github.com/Ikomia-dev/Detectron2_RetinaNet/blob/main/icons/detectron2.png)
 
-Ikomia plugin to launch inference on Mask RCNN model for object detection. Inference can be made from pre-trained model on Cityscapes dataset. This plugin is based on [Facebook Detectron2](https://github.com/facebookresearch/detectron2/blob/master/MODEL_ZOO.md) implementation.
+Ikomia plugin to launch inference on Mask RCNN model for instance segmentation. Inference can be made from pre-trained model on Cityscapes dataset. This plugin is based on [Facebook Detectron2](https://github.com/facebookresearch/detectron2/blob/master/MODEL_ZOO.md) implementation.
 
 ### How to use it?
 Here are the steps:

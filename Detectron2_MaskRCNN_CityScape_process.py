@@ -221,7 +221,7 @@ class Detectron2_MaskRCNN_CityScapeProcessFactory(dataprocess.CProcessFactory):
         self.info.repo = "https://github.com/facebookresearch/detectron2"
         self.info.path = "Plugins/Python/Detectron2"
         self.info.iconPath = "icons/detectron2.png"
-        self.info.version = "1.0.0"
+        self.info.version = "1.0.1"
         self.info.keywords = "mask,rcnn,maskRCNN,facebook,detectron2,detection,segmentation"
 
     def create(self, param=None):
